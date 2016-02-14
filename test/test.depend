@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1452420848 source:c:\users\eric\documents\university of waterloo\course\crack\test\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1455382368 source:c:\users\eric\documents\university of waterloo\course\crack the code\test\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<fstream>
+
